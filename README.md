@@ -1,4 +1,5 @@
-# Shaffuru
+# Shaffuru [1.40.8 Fork]
+Functionally works the exact same any errors, issues or bugs DM `zjavierf` on discord or open an issue here.
 ### シャッフル | Shuffle in Japanese
 
 Endless Mode evolved. You pick a duration to play for and it keeps feeding you songs that you have downloaded in a random order.
