@@ -1,6 +1,6 @@
 # Shaffuru [1.40.8 Fork]
 
-Functionally works the exact same. Any errors, issues or bugs DM zjavierf on discord or open an issue here.
+Functionally works the exact same. Any errors, issues or bugs DM `zjavierf` on discord or open an issue here.
 
 ### シャッフル | Shuffle in Japanese
 
